@@ -18,6 +18,7 @@ public class ArrayTOAL
         for(int i=0;i<names.length;i++)
         {
             System.out.println(names[i]);
+            System.out.println();
         }
 
         System.out.println("Copying the Array to ArrayList");
